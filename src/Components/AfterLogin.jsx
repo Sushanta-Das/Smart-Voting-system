@@ -25,7 +25,7 @@ export const AfterLogin = (props) => {
       >
         <Routes>
           <Route
-            path="/Smart-Voting-system/"
+            path="/"
             element={
               <Root
                 account={props.account}
